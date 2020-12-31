@@ -1,0 +1,6 @@
+Options +FollowSymLinks
+Options -MultiViews
+RewriteEngine on
+
+RewriteCond $1 !^(index.php|static|Info|robots.txt|favicon.ico)
+RewriteRule ^(.*)$ /aide19/index.php?$1 [L]

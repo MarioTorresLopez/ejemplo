@@ -1,0 +1,625 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pass",
+				"password"
+			],
+			[
+				"na",
+				"name\tAttr"
+			],
+			[
+				"lis",
+				"list-group-item-info \tBootstrap 3 Class"
+			],
+			[
+				"list",
+				"list-group-item-heading \tBootstrap 3 Class"
+			],
+			[
+				"panel",
+				"panel-footer \tBootstrap 3 Class"
+			],
+			[
+				"hidden-",
+				"hidden-md \tBootstrap 3 Class"
+			],
+			[
+				"hidde",
+				"hidden-lg \tBootstrap 3 Class"
+			],
+			[
+				"pull",
+				"pull-left \tBootstrap 3 Class"
+			],
+			[
+				"hidd",
+				"hidden-sm \tBootstrap 3 Class"
+			],
+			[
+				"hidden",
+				"hidden-sm \tBootstrap 3 Class"
+			],
+			[
+				"form-control",
+				"form-control-feedback \tBootstrap 3 Class"
+			],
+			[
+				"form",
+				"form-control \tBootstrap 3 Class"
+			],
+			[
+				"att",
+				"attr\t.attr() - single"
+			],
+			[
+				"search",
+				"search-icon"
+			],
+			[
+				"search_",
+				"search_open"
+			],
+			[
+				"sear",
+				"search-icon"
+			],
+			[
+				"sea",
+				"search_open"
+			],
+			[
+				"cl",
+				"class\tAttr"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"cons",
+				"consulta"
+			],
+			[
+				"cone",
+				"conexionBD"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"btn-",
+				"btn-lg \tBootstrap 3 Class"
+			],
+			[
+				"btn",
+				"btn-default \tBootstrap 3 Class"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"indi",
+				"indice"
+			],
+			[
+				"text-",
+				"text-muted \tBootstrap 3 Class"
+			],
+			[
+				"wel",
+				"well-lg \tBootstrap 3 Class"
+			],
+			[
+				"Con",
+				"ConfirmRFC"
+			],
+			[
+				"pu",
+				"pubs\tPHP: public static class method declaration"
+			],
+			[
+				"style",
+				"style\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 412.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/zavaleta/AppData/Local/Temp/fz3temp-2/.htaccess",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/static/js/sweetalert2.all.js",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/sftp-config.json",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/application/config/config.php",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/application/helpers/app_helper.php",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/application/models/common_model.php",
+		"/C/Users/zavaleta/Desktop/rgtn.txt",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/application/views/public/main_view.php",
+		"/C/Users/zavaleta/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/zavaleta/AppData/Roaming/Sublime Text 3/Packages/User/Bitbucket.sublime-settings",
+		"/C/Users/zavaleta/AppData/Roaming/Sublime Text 3/Packages/Bitbucket/Bitbucket.sublime-settings",
+		"/C/Users/zavaleta/Documents/url registro get post android jsp",
+		"/C/Users/zavaleta/Downloads/Documento_de_prueba_sin_valor_legal.xml",
+		"/C/Users/zavaleta/Downloads/php-api-client-develop/tests/DocumentTest.php",
+		"/C/Users/zavaleta/Downloads/php-api-client-develop/tests/CertificateTest.php",
+		"/C/Users/zavaleta/Downloads/php-api-client-develop/tests/ApiClientTest.php",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/index.php",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/application/controllers/firma.php",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/application/views/firma_view.php",
+		"/C/Users/zavaleta/Downloads/php-api-client-develop/src/BaseObject.php",
+		"/C/Users/zavaleta/Downloads/php-api-client-develop/src/Certificate.php",
+		"/C/Users/zavaleta/Downloads/php-api-client-develop/src/Document.php",
+		"/C/Users/zavaleta/Downloads/php-api-client-develop/src/ApiClient.php",
+		"/C/Users/zavaleta/Downloads/php-api-client-develop/src/User.php",
+		"/C/Users/Zavaleta/Desktop/BD_SAC.sql",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/static/assets/css/theme.css",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/static/assets/js/page/page.home.js",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/Info/Dev/template/Z-Theme - Multipurpose Template/z-theme/template.html",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/Info/Dev/template/Z-Theme - Multipurpose Template/z-theme/assets/js/page/page.home.js",
+		"/C/Users/Zavaleta/AppData/Local/Temp/fz3temp-2/page.home.js",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/static/assets/js/page/page.personal-home.js",
+		"/C/Users/Zavaleta/Downloads/Ínv. 2da. sesión coepes, myo 02 2018.html",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/static/assets/js/page/page.navbar-one-page.js",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/.htaccess",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/Info/Dev/template/Z-Theme - Multipurpose Template/z-theme/index.html",
+		"/C/Users/Zavaleta/Desktop/Accesos Admnistraci'onn consejos QRO.txt",
+		"/C/Users/Zavaleta/AppData/Local/Temp/fz3temp-2/api.php",
+		"/C/Users/Zavaleta/AppData/Local/Temp/fz3temp-2/conexion.php",
+		"/C/Users/Zavaleta/AppData/Local/Temp/fz3temp-2/index.html",
+		"/C/Users/Zavaleta/Desktop/BD_math_paradise.sql",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/Info/Dev/template/Z-Theme - Multipurpose Template/z-theme/home-one-page.html",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/Info/Dev/Accesos.txt",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/application/config/autoload.php",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/application/config/database.php",
+		"/C/Users/Zavaleta/Desktop/proyecto_ejemplo.sql",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/application/views/public/fragments/home_view.php",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/application/controllers/home.php",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/application/views/public/nav/main_nav.php",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/application/config/routes.php",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/application/controllers/welcome.php",
+		"/C/xampp/htdocs/kiapp/tellez-noriega-asociados/protegetupyme-web/application/views/public/fragments/main_header.php",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/Carlos De Jesus Herrera Cruz/main/java/com/beny_sama/examen/ListaMulti.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/Carlos De Jesus Herrera Cruz/main/java/com/beny_sama/examen/Menu.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/Carlos De Jesus Herrera Cruz/main/java/com/beny_sama/examen/ListaSelec.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/Brenda 71/main/java/com/example/brenda/remedial/Lista.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/Brenda 71/main/java/com/example/brenda/remedial/MainActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/Brenda 71/main/java/com/example/brenda/remedial/Multiplicacion.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/Escamilla Barrera Osvaldo Jael/main/java/com/example/osval/examen/ListaActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/Escamilla Barrera Osvaldo Jael/main/java/com/example/osval/examen/MainActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/Escamilla Barrera Osvaldo Jael/main/java/com/example/osval/examen/TablaActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/Jeyder Jafet Angeles Gonzalez T-170/main/java/com/example/jeyder/numeros/ExamenActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/Jeyder Jafet Angeles Gonzalez T-170/main/java/com/example/jeyder/numeros/ListaNumerosActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/Jeyder Jafet Angeles Gonzalez T-170/main/java/com/example/jeyder/numeros/MainActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/Jeyder Jafet Angeles Gonzalez T-170/main/java/com/example/jeyder/numeros/MultiplicarActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/lety 171/main/java/mx/edu/nose/examen/Lista_Numeros.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/lety 171/main/java/mx/edu/nose/examen/MenuLista.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/lety 171/main/java/mx/edu/nose/examen/Lista_Tabla.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/LizethAlvarezFlorezT_171/main/java/com/example/fernando/examen/MultiplicacionActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/LizethAlvarezFlorezT_171/main/java/com/example/fernando/examen/ListaActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/LizethAlvarezFlorezT_171/main/java/com/example/fernando/examen/examenActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/LizethAlvarezFlorezT_171/main/java/com/example/fernando/examen/ListainfinActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/LizethAlvarezFlorezT_171/main/java/com/example/fernando/examen/Menu2Activity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/LizethAlvarezFlorezT_171/main/java/com/example/fernando/examen/ListanumActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/SA Marycruz 171/main/java/mx/edu/uteq/practicafinalreme/ListaActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/SA Marycruz 171/main/java/mx/edu/uteq/practicafinalreme/SeleccionadoActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/SA Marycruz 171/main/java/mx/edu/uteq/practicafinalreme/PrincipalActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/Marycruz 171/main/java/mx/edu/uteq/practicafinalreme/SeleccionadoActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/Marycruz 171/main/java/mx/edu/uteq/practicafinalreme/ListaActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/Marycruz 171/main/java/mx/edu/uteq/practicafinalreme/PrincipalActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/Sandy Estefania Salas Segura T-171/PFMenuActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/Sandy Estefania Salas Segura T-171/PFListaMultiActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/Sandy Estefania Salas Segura T-171/PFListaActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/Yajaira Castañeda Leon/main/java/practicaszavaleta/practicas/MultiplicarActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/Yajaira Castañeda Leon/main/java/practicaszavaleta/practicas/ListaNumerosActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/Yajaira Castañeda Leon/main/java/practicaszavaleta/practicas/MenuActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/BARCENAZ RAMIREZ 171/main/java/com/example/ale/ultimaaaaa/MainActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/BARCENAZ RAMIREZ 171/main/java/com/example/ale/ultimaaaaa/segundo.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-171 REMEDIAL/BARCENAZ RAMIREZ 171/main/java/com/example/ale/ultimaaaaa/barza.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Remedial_Camelia_Mondragon_Noguez_T-172/main/java/com/example/lenovo82147/practica3/ListaActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Remedial_Camelia_Mondragon_Noguez_T-172/main/java/com/example/lenovo82147/practica3/MainActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Remedial_Camelia_Mondragon_Noguez_T-172/main/java/com/example/lenovo82147/practica3/MultiplicacionActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Reme Gregorio Ramirez VIllalobos T-172/main/java/com/example/goyo/reme/LIstaActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Reme Gregorio Ramirez VIllalobos T-172/main/java/com/example/goyo/reme/MainActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Reme Gregorio Ramirez VIllalobos T-172/main/java/com/example/goyo/reme/MultiplicarActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/olvera gudiño 172/main/java/com/example/uteq/practicaexamenremedial/PrincipalActiviti.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/olvera gudiño 172/main/java/com/example/uteq/practicaexamenremedial/MultiActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/olvera gudiño 172/main/java/com/example/uteq/practicaexamenremedial/NumerosActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Nora Patricia Muñoz Garcia. T-172/main/java/com/example/marques/remeapplication/ListaActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Nora Patricia Muñoz Garcia. T-172/main/java/com/example/marques/remeapplication/PrincipalActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Mendieta Morales/main/java/com/example/david/examen/ExamenmulActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Mendieta Morales/main/java/com/example/david/examen/Examen2Activity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Mendieta Morales/main/java/com/example/david/examen/MainActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Mendieta Morales/main/java/com/example/david/examen/ExamenActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/SantanaRamírezGabriela_T172/main/java/g/co/remedial3/Detalle.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/SantanaRamírezGabriela_T172/main/java/g/co/remedial3/Tablas.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/SantanaRamírezGabriela_T172/main/java/g/co/remedial3/Principal.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Daniel Alonso Martinez Torres/main/java/com/example/danielsan/remedial/MainActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Daniel Alonso Martinez Torres/main/java/com/example/danielsan/remedial/ListaActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Daniel Alonso Martinez Torres/main/java/com/example/danielsan/remedial/TablaActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Contreras Arredondo Carlos Eduardo_T-172/main/java/com/example/c_edu/remedialu3/MultiplicacionesActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Contreras Arredondo Carlos Eduardo_T-172/main/java/com/example/c_edu/remedialu3/ListaNumerosActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Contreras Arredondo Carlos Eduardo_T-172/main/java/com/example/c_edu/remedialu3/InicioActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Campos Mendoza Marco Alfredo/main/java/mx/czc/zero/numeros/Lista.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Campos Mendoza Marco Alfredo/main/java/mx/czc/zero/numeros/MainActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Campos Mendoza Marco Alfredo/main/java/mx/czc/zero/numeros/Multi.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/ORTEGA ALONDRA/java/com/example/alo_o/prue/MainActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/ORTEGA ALONDRA/java/com/example/alo_o/prue/FormularioActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/ORTEGA ALONDRA/java/com/example/alo_o/prue/ListaActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/ORTEGA ALONDRA/java/com/example/alo_o/prue/GatoRegistroActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/ORTEGA ALONDRA/java/com/example/alo_o/prue/GatoActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/ORTEGA ALONDRA/java/com/example/alo_o/prue/ListaRemotaActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/ORTEGA ALONDRA/java/com/example/alo_o/prue/LinearActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/ORTEGA ALONDRA/java/com/example/alo_o/prue/PrincipalActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/ORTEGA ALONDRA/java/com/example/alo_o/prue/NumerosActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/ORTEGA ALONDRA/java/com/example/alo_o/prue/ArregloBotonesActivity.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Alfonso Anaya 172/main/java/com/example/alfonsoha/evaluacion_alfonsoha_t172/Lista2.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Alfonso Anaya 172/main/java/com/example/alfonsoha/evaluacion_alfonsoha_t172/Lista.java",
+		"/C/Users/Zavaleta/Desktop/EF DAIII U3 T-172 REMEDIAL/Alfonso Anaya 172/main/java/com/example/alfonsoha/evaluacion_alfonsoha_t172/VistaPet.java"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 79.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "404_view.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".ht",
+				".htaccess"
+			],
+			[
+				"routes",
+				"application\\config\\routes.php"
+			],
+			[
+				"swee",
+				"static\\js\\sweetalert2.all.js"
+			],
+			[
+				"config",
+				"application\\config\\config.php"
+			],
+			[
+				"main",
+				"application\\views\\public\\main_view.php"
+			],
+			[
+				"sft",
+				"sftp-config.json"
+			],
+			[
+				"app_",
+				"application\\helpers\\app_helper.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"theme.css",
+				"static\\assets\\css\\theme.css"
+			],
+			[
+				"main_",
+				"application\\views\\public\\main_view.php"
+			],
+			[
+				"home.js",
+				"static\\assets\\js\\page\\page.home.js"
+			],
+			[
+				"page.home.js",
+				"Info\\Dev\\template\\Z-Theme - Multipurpose Template\\z-theme\\assets\\js\\page\\page.home.js"
+			],
+			[
+				"template.html",
+				"Info\\Dev\\template\\Z-Theme - Multipurpose Template\\z-theme\\template.html"
+			],
+			[
+				"index.html",
+				"Info\\Dev\\template\\Z-Theme - Multipurpose Template\\z-theme\\index.html"
+			],
+			[
+				".htaccess",
+				".htaccess"
+			],
+			[
+				"page.na",
+				"static\\assets\\js\\page\\page.navbar-one-page.js"
+			],
+			[
+				"one",
+				"Info\\Dev\\template\\Z-Theme - Multipurpose Template\\z-theme\\home-one-page.html"
+			],
+			[
+				"autolo",
+				"application\\config\\autoload.php"
+			],
+			[
+				"acces",
+				"Info\\Dev\\Accesos.txt"
+			],
+			[
+				"databa",
+				"application\\config\\database.php"
+			],
+			[
+				"acce",
+				"Info\\Dev\\Accesos.txt"
+			],
+			[
+				"config.php",
+				"application\\config\\config.php"
+			],
+			[
+				"autoloa",
+				"application\\config\\autoload.php"
+			],
+			[
+				"main_v",
+				"application\\views\\public\\main_view.php"
+			],
+			[
+				"wel",
+				"application\\controllers\\welcome.php"
+			],
+			[
+				".htacc",
+				".htaccess"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"template",
+				"Info\\Dev\\template\\Z-Theme - Multipurpose Template\\z-theme\\template.html"
+			],
+			[
+				"vacantes_v",
+				"application\\views\\app\\empresa\\fragment\\vacantes_view.php"
+			],
+			[
+				"vacantes_mode",
+				"application\\models\\vacantes_model.php"
+			],
+			[
+				"vacantes",
+				"application\\controllers\\app\\empresa\\vacantes.php"
+			],
+			[
+				"datos",
+				"application\\views\\app\\candidato\\fragment\\datos_view.php"
+			],
+			[
+				"busquedarapida_view",
+				"application\\views\\app\\candidato\\fragment\\busquedarapida_view.php"
+			],
+			[
+				"busq",
+				"application\\controllers\\app\\candidato\\busqueda.php"
+			],
+			[
+				"vacantes.php",
+				"application\\controllers\\app\\empresa\\vacantes.php"
+			],
+			[
+				"empresa",
+				"static\\js\\registrarEmpresa.js"
+			],
+			[
+				"sftp",
+				"sftp-config.json"
+			],
+			[
+				"menu",
+				"application\\views\\app\\candidato\\menu\\menu_view.php"
+			],
+			[
+				"competen",
+				"application\\controllers\\app\\candidato\\competencias.php"
+			],
+			[
+				"registro",
+				"static\\js\\registrarCandidato.js"
+			],
+			[
+				"email_",
+				"application\\models\\email_model.php"
+			],
+			[
+				"metodologia_",
+				"application\\views\\app\\public\\fragments\\metodologia_view.php"
+			],
+			[
+				"metodologia",
+				"application\\controllers\\metodologia.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "bolsa",
+		"selected_items":
+		[
+			[
+				"bolsa",
+				"C:\\xampp\\htdocs\\uteq\\cidtai\\bolsa-uteq\\bolsa-uteq.sublime-project"
+			],
+			[
+				"",
+				"C:\\xampp\\htdocs\\uteq\\cidtai\\coepesqro-web\\coepesqro.org.mx.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
